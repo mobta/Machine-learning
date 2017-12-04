@@ -1,1 +1,4 @@
-
+- **Linear Regression** [Link]()
+- **Logistic Regression** [Link]()
+- **Decision Trees** [Link]()
+- **Random Forests** [Link]()
